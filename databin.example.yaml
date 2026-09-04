@@ -1,0 +1,12 @@
+# Example only. Raw dataset files are not included in this repository.
+path: ../data
+train: train/images
+val: valid/images
+test: test/images
+names:
+  0: electronic
+  1: glass
+  2: metal
+  3: organic
+  4: paper
+  5: plastic

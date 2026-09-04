@@ -1,0 +1,5 @@
+# Recorded notebook version; see docs/environment.md for the original CUDA stack.
+ultralytics==8.1.14
+torch
+opencv-python
+PyYAML

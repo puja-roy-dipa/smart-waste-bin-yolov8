@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated IEEE conference paper."
+title: "Deep Learning Based Smart Bin for Efficient Sorting of Recyclable, Non-Recyclable, and Compostable Materials"
+type: conference-paper
+authors:
+  - family-names: Ahmed
+    given-names: Maaz
+  - family-names: Ahamed
+    given-names: Md. Faysal
+  - family-names: Islam
+    given-names: Syeda Munjiba
+  - family-names: Dipa
+    given-names: Puja Roy
+  - family-names: Debnath
+    given-names: Rahul
+  - family-names: Sarker
+    given-names: Md Nabil Shariar
+doi: 10.1109/ICCIT64611.2024.11022177
+date-released: 2024
+conference: "2024 27th International Conference on Computer and Information Technology (ICCIT)"
+pages: 2500-2505
